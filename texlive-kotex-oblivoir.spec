@@ -6,7 +6,7 @@
 # catalog-version 2.0.0
 Name:		texlive-kotex-oblivoir
 Version:	2.0.0
-Release:	5
+Release:	6
 Summary:	A LaTeX document class for typesetting Korean documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/korean/kotex-oblivoir
