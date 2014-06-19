@@ -1,12 +1,12 @@
-# revision 32105
+# revision 34243
 # category Package
 # catalog-ctan /language/korean/kotex-oblivoir
-# catalog-date 2013-11-03 10:05:42 +0100
+# catalog-date 2014-05-23 15:55:46 +0200
 # catalog-license lppl
-# catalog-version 2.0.0
+# catalog-version 2.0.1
 Name:		texlive-kotex-oblivoir
-Version:	2.0.0
-Release:	6
+Version:	2.0.1
+Release:	1
 Summary:	A LaTeX document class for typesetting Korean documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/korean/kotex-oblivoir
@@ -63,7 +63,9 @@ belongs to the ko.TeX bundle.
 %{_texmfdistdir}/tex/latex/kotex-oblivoir/oblivoir-xlua.cls
 %{_texmfdistdir}/tex/latex/kotex-oblivoir/oblivoir.cls
 %{_texmfdistdir}/tex/latex/kotex-oblivoir/xoblivoir.cls
+%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/ChangeLog
 %doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/README
+%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/README.md
 %doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/oblivoir-simpledoc.pdf
 %doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/oblivoir-simpledoc.tex
 %doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/oblivoir-test.tex
