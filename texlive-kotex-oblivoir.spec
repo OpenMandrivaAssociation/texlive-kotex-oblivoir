@@ -1,12 +1,6 @@
-# revision 34243
-# category Package
-# catalog-ctan /language/korean/kotex-oblivoir
-# catalog-date 2014-05-23 15:55:46 +0200
-# catalog-license lppl
-# catalog-version 2.0.1
 Name:		texlive-kotex-oblivoir
-Version:	2.0.1
-Release:	4
+Version:	2.1.8
+Release:	1
 Summary:	A LaTeX document class for typesetting Korean documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/korean/kotex-oblivoir
@@ -35,40 +29,8 @@ belongs to the ko.TeX bundle.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/10_5.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/fapapersize.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/hfontsel.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/hfontspec.nanum
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/memhangul-common.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/memhangul-patch.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/memhangul-ucs.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-enumerate.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-gremph.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-interword.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-setspace.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/nanumfontsel.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/ob-koreanappendix.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/ob-nokoreanappendix.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-ucs/ob-toclof.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/luatexko-xobfont.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/memhangul-x.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/memucs-interword-x.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/xetexko-var.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/xetexko-xobfont.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/xob-amssymb.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/xob-dotemph.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/xob-hyper.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/memhangul-x/xob-paralist.sty
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/oblivoir-base.cls
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/oblivoir-xlua.cls
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/oblivoir.cls
-%{_texmfdistdir}/tex/latex/kotex-oblivoir/xoblivoir.cls
-%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/ChangeLog
-%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/README
-%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/README.md
-%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/oblivoir-simpledoc.pdf
-%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/oblivoir-simpledoc.tex
-%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir/oblivoir-test.tex
+%{_texmfdistdir}/tex/latex/kotex-oblivoir
+%doc %{_texmfdistdir}/doc/latex/kotex-oblivoir
 
 #-----------------------------------------------------------------------
 %prep
