@@ -1,5 +1,5 @@
 Name:		texlive-kotex-oblivoir
-Version:	69662
+Version:	70491
 Release:	1
 Summary:	A LaTeX document class for typesetting Korean documents
 Group:		Publishing
