@@ -3,7 +3,7 @@ Version:	70491
 Release:	1
 Summary:	A LaTeX document class for typesetting Korean documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/korean/kotex-oblivoir
+URL:		https://www.ctan.org/tex-archive/language/korean/kotex-oblivoir
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kotex-oblivoir.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kotex-oblivoir.doc.r%{version}.tar.xz
